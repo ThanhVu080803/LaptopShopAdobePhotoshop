@@ -14,4 +14,4 @@ Giao diện được em thiết kế bằng Adobe Photoshop nhằm đáp ứng c
 <img src="./Quan Ly He Thong.png" width="30%"></img>
 
 ## Quản lý kho
-<img src="./Quan Ly =Kho.png" width="30%"></img>
+<img src="./Quan Ly Kho.png" width="30%"></img>
